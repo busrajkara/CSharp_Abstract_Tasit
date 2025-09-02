@@ -1,0 +1,14 @@
+C:\Users\busra\OneDrive\Masaüstü\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\bin\Debug\net8.0\CSharp_Abstract_Tasit.exe
+C:\Users\busra\OneDrive\Masaüstü\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\bin\Debug\net8.0\CSharp_Abstract_Tasit.deps.json
+C:\Users\busra\OneDrive\Masaüstü\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\bin\Debug\net8.0\CSharp_Abstract_Tasit.runtimeconfig.json
+C:\Users\busra\OneDrive\Masaüstü\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\bin\Debug\net8.0\CSharp_Abstract_Tasit.dll
+C:\Users\busra\OneDrive\Masaüstü\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\bin\Debug\net8.0\CSharp_Abstract_Tasit.pdb
+C:\Users\busra\OneDrive\Masaüstü\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\obj\Debug\net8.0\CSharp_Abstract_Tasit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\OneDrive\Masaüstü\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\obj\Debug\net8.0\CSharp_Abstract_Tasit.AssemblyInfoInputs.cache
+C:\Users\busra\OneDrive\Masaüstü\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\obj\Debug\net8.0\CSharp_Abstract_Tasit.AssemblyInfo.cs
+C:\Users\busra\OneDrive\Masaüstü\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\obj\Debug\net8.0\CSharp_Abstract_Tasit.csproj.CoreCompileInputs.cache
+C:\Users\busra\OneDrive\Masaüstü\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\obj\Debug\net8.0\CSharp_Abstract_Tasit.dll
+C:\Users\busra\OneDrive\Masaüstü\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\obj\Debug\net8.0\refint\CSharp_Abstract_Tasit.dll
+C:\Users\busra\OneDrive\Masaüstü\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\obj\Debug\net8.0\CSharp_Abstract_Tasit.pdb
+C:\Users\busra\OneDrive\Masaüstü\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\obj\Debug\net8.0\CSharp_Abstract_Tasit.genruntimeconfig.cache
+C:\Users\busra\OneDrive\Masaüstü\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\CSharp_Abstract_Tasit\obj\Debug\net8.0\ref\CSharp_Abstract_Tasit.dll
